@@ -1,3 +1,16 @@
+## Libraries used
+✭ canvajs-react-charts for charts
+✭ material ui for icons
+✭ react-calendar for calendar
+✭ react-circular-progress bar
+
+## Steps to run the program
+✭ npm install   <!-- install dependencies -->
+✭ npm start
+
+## Live Demo
+https://dashboarddemo123.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
