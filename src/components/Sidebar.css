@@ -1,0 +1,24 @@
+.sidebar {
+   min-width: 300px;
+   flex: 1 20%;
+   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.sidebar__header {
+   padding: 30px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+}
+.sidebar__body {
+   height: 55vh;
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   justify-content: space-evenly;
+}
+@media screen and (max-width: 992px) {
+   .sidebar {
+      display: none;
+   }
+}

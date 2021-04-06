@@ -1,0 +1,19 @@
+.sidebarOption {
+   display: flex;
+   margin-left: 14%;
+   width: fit-content;
+   align-items: center;
+   justify-content: flex-start;
+   transition: background-color 0.2s ease-in-out, color 0.1s ease-in-out;
+   cursor: pointer;
+   padding: 7px;
+   border-radius: 10px;
+  
+}
+a{
+   text-decoration: none;
+}
+.sidebarOption:hover {
+   color: #fff;
+   background-color: rgb(64, 50, 174);
+}
